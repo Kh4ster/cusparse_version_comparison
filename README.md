@@ -3,6 +3,7 @@ This projet showcase the difference in terms of accuracy for SpMV operation base
 # Compiling & running
 
 nvcc compare_cpu_gpu_spmv.cu -lcusparse
+
 ./a.out
 
 # Results
